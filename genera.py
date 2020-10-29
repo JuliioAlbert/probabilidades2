@@ -10,7 +10,7 @@ with open("tweet.json","r") as read_file:
 
 def compati(matriz):
 	print()
-	print("***Enviando datos a base.json (compati con programa de clasificacion)***")
+	print("***Enviando datos  => *********")
 	print("")
 	i = 0
 	data = {}
